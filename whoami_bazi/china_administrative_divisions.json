@@ -1,0 +1,352 @@
+{
+  "provinces": [
+    {
+      "name": "河南省",
+      "adcode": "410000",
+      "center": [
+        113.753094,
+        34.767052
+      ],
+      "level": "province",
+      "childrenNum": 0,
+      "cities": [
+        {
+          "name": "洛阳市",
+          "adcode": "410300",
+          "center": [
+            112.453895,
+            34.619702
+          ],
+          "level": "city",
+          "parent_adcode": "410000",
+          "counties": [
+            {
+              "name": "新安县",
+              "adcode": "410323",
+              "center": [
+                112.13246,
+                34.728909
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "宜阳县",
+              "adcode": "410327",
+              "center": [
+                112.179187,
+                34.51462
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "栾川县",
+              "adcode": "410324",
+              "center": [
+                111.615729,
+                33.7857
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "嵩县",
+              "adcode": "410325",
+              "center": [
+                112.085432,
+                34.134639
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "老城区",
+              "adcode": "410302",
+              "center": [
+                112.469071,
+                34.683645
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "西工区",
+              "adcode": "410303",
+              "center": [
+                112.428183,
+                34.659959
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "瀍河回族区",
+              "adcode": "410304",
+              "center": [
+                112.500131,
+                34.679773
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "汝阳县",
+              "adcode": "410326",
+              "center": [
+                112.473013,
+                34.154283
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "洛龙区",
+              "adcode": "410311",
+              "center": [
+                112.463833,
+                34.619711
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "涧西区",
+              "adcode": "410305",
+              "center": [
+                112.395766,
+                34.658177
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "偃师区",
+              "adcode": "410307",
+              "center": [
+                112.789375,
+                34.72715
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "洛宁县",
+              "adcode": "410328",
+              "center": [
+                111.652958,
+                34.389371
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "孟津区",
+              "adcode": "410308",
+              "center": [
+                112.44525,
+                34.825587
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            },
+            {
+              "name": "伊川县",
+              "adcode": "410329",
+              "center": [
+                112.425751,
+                34.421741
+              ],
+              "level": "district",
+              "parent_adcode": "410300"
+            }
+          ]     
+        }
+      ]
+    },
+	{
+      "name": "北京市",
+      "adcode": "110000",
+      "center": [
+        116.407387,
+        39.904179
+      ],
+      "level": "province",
+      "childrenNum": 0,
+      "cities": [
+        {
+          "name": "北京城区",
+          "adcode": "110100",
+          "center": [
+            116.405285,
+            39.904989
+          ],
+          "level": "city",
+          "parent_adcode": "110000",
+          "counties": [
+            {
+              "name": "怀柔区",
+              "adcode": "110116",
+              "center": [
+                116.631974,
+                40.317003
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "门头沟区",
+              "adcode": "110109",
+              "center": [
+                116.101668,
+                39.940842
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "顺义区",
+              "adcode": "110113",
+              "center": [
+                116.661474,
+                40.149891
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "延庆区",
+              "adcode": "110119",
+              "center": [
+                115.974609,
+                40.457033
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "东城区",
+              "adcode": "110101",
+              "center": [
+                116.416334,
+                39.928359
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "昌平区",
+              "adcode": "110114",
+              "center": [
+                116.231034,
+                40.220952
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "大兴区",
+              "adcode": "110115",
+              "center": [
+                116.341483,
+                39.726917
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "房山区",
+              "adcode": "110111",
+              "center": [
+                116.143426,
+                39.748889
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "平谷区",
+              "adcode": "110117",
+              "center": [
+                117.121589,
+                40.140805
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "朝阳区",
+              "adcode": "110105",
+              "center": [
+                116.443136,
+                39.921444
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "石景山区",
+              "adcode": "110107",
+              "center": [
+                116.223015,
+                39.906304
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "丰台区",
+              "adcode": "110106",
+              "center": [
+                116.286726,
+                39.858538
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "海淀区",
+              "adcode": "110108",
+              "center": [
+                116.2977,
+                39.959893
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "西城区",
+              "adcode": "110102",
+              "center": [
+                116.36585,
+                39.9126
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "密云区",
+              "adcode": "110118",
+              "center": [
+                116.843351,
+                40.377058
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            },
+            {
+              "name": "通州区",
+              "adcode": "110112",
+              "center": [
+                116.72923,
+                39.916403
+              ],
+              "level": "district",
+              "parent_adcode": "110100"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
